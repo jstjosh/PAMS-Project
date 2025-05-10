@@ -1,7 +1,6 @@
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -23,3 +22,4 @@ public class Main {
         bst.inOrderTraversal(bst.getRoot());
     }
 }
+
